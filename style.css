@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition-property: border-radius,background;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+}
+
+.container:hover{
+    background: blue;
+    border-radius: 50%;
+}
