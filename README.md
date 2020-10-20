@@ -1,1 +1,0 @@
-# abdulsamedkeskin.github.io
